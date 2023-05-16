@@ -5,4 +5,5 @@ Beginner Python Projects [Noob]
 Hey! This rep consists of a few basic python projects I've made this year, either in-class or otherwise, 
 They're quite basic and easy to understand!
 
-Bye
+I'll add more over time,
+Bye!
